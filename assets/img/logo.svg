@@ -39,8 +39,8 @@
 	s11.832-25.632,26.428-25.632c14.595,0,26.427,11.476,26.427,25.632S834.463,429.654,819.868,429.654z M768.842,884.146
 	c0.142-0.002,0.283-0.002,0.424-0.004c17.089,0.066,30.922,12.654,30.922,28.175c0,15.562-13.905,28.178-31.057,28.178
 	s-31.056-12.616-31.056-28.178C738.075,896.844,751.824,884.288,768.842,884.146z"/>
-<!-- <circle fill="#3C2848" cx="370.959" cy="572.206" r="222.959"/> -->
-<circle fill="#A5A19F" cx="370.959" cy="572.206" r="222.959"/>
+<circle fill="#3C2848" cx="370.959" cy="572.206" r="222.959"/>
+<!-- <circle fill="#A5A19F" cx="370.959" cy="572.206" r="222.959"/> -->
 <g>
 	<g>
 		<path fill="#935C54" d="M436.817,451.045l-86.869,27.277c-3.739,1.174-5.817,5.157-4.644,8.895l2.978,9.483
@@ -83,8 +83,8 @@
 		c-1.127-3.591,0.922-7.433,4.498-8.555l-10.07,3.162c-3.969,1.246-6.173,5.488-4.921,9.472l29.833,95.01
 		C307.886,555.539,312.116,557.75,316.085,556.502z"/>
 </g>
-<text transform="matrix(1 0 0 1 150 700)" fill="#000" stroke="#000" stroke-miterlimit="10" font-family="'SitkaBanner'" font-size="205"> 4 </text>
+<text transform="matrix(1 0 0 1 120 700)" fill="#000" stroke="#000" stroke-miterlimit="10" font-family="'SitkaBanner'" font-size="205"> 4 </text>
 <!-- <text transform="matrix(1 0 0 1 206.542 672.8232)" fill="#A5A19F" stroke="#72706E" stroke-miterlimit="10" font-family="'SitkaBanner'" font-size="205"> 4 </text> -->
 <!-- <text transform="matrix(1 0 0 1 381.4502 672.8232)" fill="#A5A19F" stroke="#72706E" stroke-miterlimit="10" font-family="'SitkaBanner'" font-size="71">RIDERS TECHNOLOGY</text> -->
-<text transform="matrix(1 0 0 1 300 673.9)" fill="#000" stroke="#000" stroke-miterlimit="10" font-family="'SitkaBanner'" font-size="72">RIDERS TECHNOLOGY</text>
+<text transform="matrix(1 0 0 1 300 673.9)" fill="#000" stroke="#000" stroke-miterlimit="10" font-family="'SitkaBanner'" font-size="64">RIDERS TECHNOLOGY</text>
 </svg>
